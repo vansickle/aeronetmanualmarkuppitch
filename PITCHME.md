@@ -1,6 +1,6 @@
 ---?image=assets/image/jeremy-bishop.jpg
 
-# AeronNetLab Manual Markup Tool
+# AeronNetLab Development
 
 ### Results so far
 
