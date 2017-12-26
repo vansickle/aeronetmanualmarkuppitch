@@ -1,12 +1,16 @@
 ---?image=assets/image/jeremy-bishop.jpg
 
-# AeronNetLab Development
+# AeroNetLab Development
 
-### Results so far
+## Results so far
+## And plans
 
 ---
 
 ## Disclaimer
+
+- The slides are for me
+- A lot of small details are forgotten and could require time
 
 ---
 
