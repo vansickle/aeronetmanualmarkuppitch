@@ -25,6 +25,16 @@
 
 ---
 
+## Architecture
+
+---
+
+## Results 
+
+- Team-Building |
+
+---
+
 ## Team
 
 - Maria+ (+R) |
@@ -38,6 +48,14 @@
 
 - Gitlab
 - No CI
+- Student Diplomas (+R -D)
+- Me
+  - TL
+    - Tasks setting
+    - Code Review
+  - DevOps
+  - Backend Dev
+  - PM (Godnik) 
 
 ---
 
@@ -45,21 +63,69 @@
 
 options
 
+- VALUE? |
+- Innopolis |
+- Business |
+- Logic |
+- Parallelization
+
 ---
 
-## Mandatory Technical Tasks
+## 1. Mandatory Technical Tasks
 
-Holidays, First part of
+Need to be done
+First half of january (including holidays)
 
 - Fix Bugs |
-- Testing (M+A, TDD) |
+- Experiments |
+- TDD |
 - Refactoring |
 - Retrospective |
 - Workflow Adjustment |
 
 ---
 
+## 2. Finish pipeline
 
+Valuable for us
+
+- Export (suitable format) |
+- Import |
+  - SpaceNet
+  - Grab California Fires |
+  - etc.
+- Improvements
+  - GeoServer speed
+
+---
+
+## X. Fluorish
+
+How to make it unique and valuable?
+
+- Smart Tools
+  - MagicWand
+  - Supervisely, LabelMe
+  - Look at GIS tools and technics
+- Join external markup & tiles
+
+<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/2000/1*nQO-Xa0L298tSBmjsGyRIA.gif" src="https://cdn-images-1.medium.com/max/2000/1*nQO-Xa0L298tSBmjsGyRIA.gif">
+
+---
+
+## X. Multi-user
+
+Many boring tasks
+
+- Authentication |
+- Authorization |
+- Assesment |
+- Monitoring |
+- AdminUI ? |
+
+---
+
+## X. 
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
