@@ -4,15 +4,15 @@
 
 ### Results so far
 
----?image=assets/image/kyle-gregory-devaras.jpg
+---
 
 ## Disclaimer
 
----?image=assets/image/kyle-gregory-devaras.jpg
+---
 
 ## DEMO!
 
----?image=assets/image/kyle-gregory-devaras.jpg
+---
 
 ## NUMBERS
 
@@ -27,12 +27,12 @@
 
 ## Team
 
-- Maria+ (+R)
-- Tigran+
-- Alexey =>+ (+R)
-- Max ?
+- Maria+ (+R) |
+- Tigran+ |
+- Alexey =>+ (+R) |
+- Max ? |
 
---- 
+---?image=assets/image/octavian-rosca.jpg
 
 ## Risks
 
@@ -47,11 +47,15 @@ options
 
 ---
 
-# Mandatory Technical Tasks
-- Fix Bugs
-- Testing (M+A, TDD)
-- Refactoring
-- Retrospective
+## Mandatory Technical Tasks
+
+Holidays, First part of
+
+- Fix Bugs |
+- Testing (M+A, TDD) |
+- Refactoring |
+- Retrospective |
+- Workflow Adjustment |
 
 ---
 

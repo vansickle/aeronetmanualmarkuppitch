@@ -8,7 +8,7 @@ theme : moon
 theme-override : assets/css/PITCHME.css
 highlight : atom-one-light
 logo : assets/image/logo.png
-background : assets/image/octavian-rosca.jpg
+background : assets/image/kyle-gregory-devaras.jpg
 transition : none
 published : true
 footnote : "GitPitch [ Space ] Presentation Template"
