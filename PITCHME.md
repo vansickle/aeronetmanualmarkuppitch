@@ -6,6 +6,10 @@
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
+## Disclaimer
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+
 ## DEMO!
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
@@ -23,15 +27,35 @@
 
 ## Team
 
+- Maria+ (+R)
+- Tigran+
+- Alexey =>+ (+R)
+- Max ?
+
 --- 
 
 ## Risks
+
+- Gitlab
+- No CI
 
 ---
 
 # What to do NEXT?
 
+options
+
 ---
+
+# Mandatory Technical Tasks
+- Fix Bugs
+- Testing (M+A, TDD)
+- Refactoring
+- Retrospective
+
+---
+
+
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
