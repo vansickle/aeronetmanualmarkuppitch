@@ -1,8 +1,8 @@
 ---?image=assets/image/jeremy-bishop.jpg
 
-# Space
+# AeronNetLab Manual Markup Tool
 
-### A GitPitch Presentation Template
+### Results so far
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
