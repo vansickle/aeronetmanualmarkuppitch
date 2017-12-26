@@ -6,17 +6,11 @@
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+## DEMO!
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Template Features
+## NUMBERS
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
@@ -24,6 +18,14 @@
 - Slideshow Background Image |
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
+
+---
+
+## Team
+
+--- 
+
+## Risks
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
