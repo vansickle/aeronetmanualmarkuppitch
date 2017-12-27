@@ -57,14 +57,17 @@
 
 ---?image=assets/image/octavian-rosca.jpg
 
-## Risks
-
 - Gitlab |
 - No CI |
 - Only one professional developer |
   - Tsepa? |
 - Student Diplomas (+R -D) |
 - Georgy distracting |
+
++++?image=assets/image/octavian-rosca.jpg
+
+## Risks
+
 - Me |
   - TL |
     - Tasks setting |
