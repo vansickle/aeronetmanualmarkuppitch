@@ -57,6 +57,8 @@
 
 ---?image=assets/image/octavian-rosca.jpg
 
+## Risks
+
 - Gitlab |
 - No CI |
 - Only one professional developer |
