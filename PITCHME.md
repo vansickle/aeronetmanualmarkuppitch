@@ -22,15 +22,15 @@
 
 ## NUMBERS
 
-+++?image=assets/numbers1.png
++++?image=assets/image/numbers1.png
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/numbers2.png
++++?image=assets/image/numbers2.png
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/numbers3.png
++++?image=assets/image/numbers3.png
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/numbers4.png
++++?image=assets/image/numbers4.png
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/numbers5.png
++++?image=assets/image/numbers5.png
 <!-- .slide: data-background-transition="none" -->
 ---
 
