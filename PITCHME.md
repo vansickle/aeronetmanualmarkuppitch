@@ -10,7 +10,9 @@
 ## Disclaimer
 
 - The slides are for me
+- Questions for all of us, not answers
 - A lot of small details are forgotten and could require time
+- Assessment
 
 ---
 
@@ -20,13 +22,16 @@
 
 ## NUMBERS
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
-
++++?image=assets/numbers1.png
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/numbers2.png
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/numbers3.png
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/numbers4.png
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/numbers5.png
+<!-- .slide: data-background-transition="none" -->
 ---
 
 ## Architecture
@@ -52,11 +57,14 @@
 
 - Gitlab
 - No CI
+- Only one professional developer
 - Student Diplomas (+R -D)
+- Georgy distracting
 - Me
   - TL
     - Tasks setting
     - Code Review
+  - Teaching (e.g. AlBokh)
   - DevOps
   - Backend Dev
   - PM (Godnik) 
@@ -82,9 +90,9 @@ First half of january (including holidays)
 
 - Fix Bugs |
 - Experiments |
-- TDD |
 - Refactoring |
 - Retrospective |
+- TDD, Modeling, Git, Issue Tracking |
 - Workflow Adjustment |
 
 ---
@@ -95,8 +103,9 @@ Valuable for us
 
 - Export (suitable format) |
 - Import |
-  - SpaceNet
+  - SpaceNet |
   - Grab California Fires |
+  - Grab Yandex/Kosmosnimki |
   - etc.
 - Improvements
   - GeoServer speed
