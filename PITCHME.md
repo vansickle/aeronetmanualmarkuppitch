@@ -9,10 +9,10 @@
 
 ## Disclaimer
 
-- The slides are for me
-- Questions for all of us, not answers
-- A lot of small details are forgotten and could require time
-- Assessment
+- The slides are for me |
+- Questions for all of us, not answers |
+- A lot of small details are forgotten and could require time |
+- Assessment |
 
 ---
 
@@ -55,19 +55,19 @@
 
 ## Risks
 
-- Gitlab
-- No CI
-- Only one professional developer
-- Student Diplomas (+R -D)
-- Georgy distracting
-- Me
-  - TL
-    - Tasks setting
-    - Code Review
-  - Teaching (e.g. AlBokh)
-  - DevOps
-  - Backend Dev
-  - PM (Godnik) 
+- Gitlab |
+- No CI |
+- Only one professional developer |
+- Student Diplomas (+R -D) |
+- Georgy distracting |
+- Me |
+  - TL |
+    - Tasks setting |
+    - Code Review |
+  - Teaching (e.g. AlBokh) |
+  - DevOps |
+  - Backend Dev |
+  - PM (Godnik) |
 
 ---
 
@@ -79,7 +79,7 @@ options
 - Innopolis |
 - Business |
 - Logic |
-- Parallelization
+- Parallelization |
 
 ---
 
@@ -106,10 +106,10 @@ Valuable for us
   - SpaceNet |
   - Grab California Fires |
   - Grab Yandex/Kosmosnimki |
-  - etc.
-- Improvements
-  - GeoServer speed
-  - AdminUI? (Upload OPM n etc.)
+  - etc. |
+- Improvements |
+  - GeoServer speed |
+  - AdminUI? (Upload OPM n etc.) |
 
 ---
 
@@ -122,7 +122,7 @@ How to make it unique and valuable?
   - Supervisely, LabelMe |
   - Look at GIS tools and technics |
 - Join external markup & tiles |
-  - Get OSM, edit it and apply
+  - Get OSM, edit it and apply |
 
 ---
 
@@ -151,10 +151,10 @@ Many boring tasks
 
 ## X. Non-Manual Markup Works
 
-- MOZ
-- GeoTrellis
-  - Potsdam Example 
-- BigData platform
+- MOZ |
+- GeoTrellis-like visualization |
+  - https://potsdam.geotrellis.io | 
+- BigData platform |
 
 
 ---
