@@ -40,6 +40,10 @@
 
 ## Results 
 
+- Manual Markup UI |
+- API |
+- API auto-documenation |
+- Tile Server |
 - Team-Building |
 
 ---
