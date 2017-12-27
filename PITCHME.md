@@ -62,6 +62,7 @@
 - Gitlab |
 - No CI |
 - Only one professional developer |
+  - Tsepa? |
 - Student Diplomas (+R -D) |
 - Georgy distracting |
 - Me |
