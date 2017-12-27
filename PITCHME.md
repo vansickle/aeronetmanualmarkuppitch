@@ -24,13 +24,13 @@
 
 +++?image=assets/image/numbers1.png&size=auto 50%
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/image/numbers2.png
++++?image=assets/image/numbers2.png&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/image/numbers3.png
++++?image=assets/image/numbers3.png&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/image/numbers4.png&size=auto 50%
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/image/numbers5.png
++++?image=assets/image/numbers5.png&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
 ---
 
