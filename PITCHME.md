@@ -22,13 +22,13 @@
 
 ## NUMBERS
 
-+++?image=assets/image/numbers1.png
++++?image=assets/image/numbers1.png&size=auto 50%
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/image/numbers2.png
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/image/numbers3.png
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/image/numbers4.png
++++?image=assets/image/numbers4.png&size=auto 50%
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/image/numbers5.png
 <!-- .slide: data-background-transition="none" -->
