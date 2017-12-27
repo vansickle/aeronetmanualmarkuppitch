@@ -46,15 +46,6 @@
 - Tile Server |
 - Team-Building |
 
----
-
-## Team
-
-- Maria+ (+R) |
-- Tigran+ |
-- Alexey =>+ (+R) |
-- Max ? |
-
 ---?image=assets/image/octavian-rosca.jpg
 
 ## Risks
