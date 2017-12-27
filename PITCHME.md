@@ -124,7 +124,7 @@ How to make it unique and valuable?
 - Join external markup & tiles |
   - Get OSM, edit it and apply |
 
----
++++
 
 <img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/2000/1*nQO-Xa0L298tSBmjsGyRIA.gif" src="https://cdn-images-1.medium.com/max/2000/1*nQO-Xa0L298tSBmjsGyRIA.gif">
 
