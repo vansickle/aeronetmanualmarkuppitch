@@ -12,7 +12,8 @@
 - The slides are for me |
 - Questions for all of us, not answers |
 - A lot of small details are forgotten and could require time |
-- Assessment |
+- Assessment Required |
+- Only Development Side
 
 ---
 
