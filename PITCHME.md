@@ -46,6 +46,15 @@
 - Tile Server |
 - Team-Building |
 
+---
+
+## Team
+
+- Maria+ |
+- Tigran+ |
+- Alexey =>+ (+R) |
+- Max ~? |
+
 ---?image=assets/image/octavian-rosca.jpg
 
 ## Risks
@@ -140,7 +149,7 @@ Many boring tasks
 
 - Authentication |
 - Authorization |
-- Assesment |
+- Assessment |
 - Monitoring |
 - AdminUI ? |
 

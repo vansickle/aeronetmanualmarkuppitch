@@ -1,12 +1,3 @@
----
-
-## Team
-
-- Maria+ (+R) |
-- Tigran+ |
-- Alexey =>+ (+R) |
-- Max ? |
-
 ---?image=assets/image/jeremy-bishop.jpg
 
 # AeronNetLab Manual Markup Tool
